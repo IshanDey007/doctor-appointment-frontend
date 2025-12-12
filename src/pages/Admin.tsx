@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { ArrowLeft, Plus, Trash2 } from 'lucide-react';
+import { ArrowLeft, Plus } from 'lucide-react';
 import { useApp } from '../context/AppContext';
 import Card from '../components/Card';
 import Button from '../components/Button';
